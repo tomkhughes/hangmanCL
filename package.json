@@ -1,0 +1,27 @@
+{
+  "name": "hangmancl",
+  "version": "1.0.0",
+  "description": "hangman command line game using constructor functions ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomkhughes/hangmanCL.git"
+  },
+  "keywords": [
+    "hangman",
+    "command-line",
+    "node"
+  ],
+  "author": "Tom K Hughes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomkhughes/hangmanCL/issues"
+  },
+  "homepage": "https://github.com/tomkhughes/hangmanCL#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  }
+}
