@@ -41,6 +41,6 @@ module.exports = Letter;
 
 
   
-  var a = new Letter("a");
-  console.log(a.showLetter());
-  console.log(a.letterChecker());
+  // var a = new Letter("a");
+  // console.log(a.showLetter());
+  // console.log(a.letterChecker());
