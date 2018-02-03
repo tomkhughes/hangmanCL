@@ -12,38 +12,6 @@
 // A function that takes a character as an argument and calls the guess function on each letter object 
 // (the second function defined in Letter.js)
 
-
-
-
-
-// var Word = function(word) {
-//      this.word = word
-//     // An array of new Letter objects representing the letters of the underlying word
-//     this.letterArray = []
-   
-//     this.makeLetterArray = function() {
-//         for (var i = 0; i < this.word.length; i++) {
-//             var newLetter = new Letter(this.word[i]);
-//             this.letterArray.push(newLetter);
-//             // console.log(this.letterArray)
-//         }
-//     }
-//     //PRINTS OUT THE UNDERSCORES FOR EACH LETTER SO THE USER CAN SEE THE LETTER SPACES
-//     this.printUnderscores = function() {
-//         var wordPrint = ' ';
-//         for (var i = 0; i < this.letterArray.length; i++) {
-//             wordPrint += this.letterArray[i].showLetter();   
-//         }
-//         return wordPrint;
-//         console.log(wordPrint);
-//     }
-//     // A function that takes a character as an argument and calls the guess function on each letter object 
-//     // (the second function defined in Letter.js)
-//     this.guessChecker = function() {
-
-//     }
-
-// }; 
 // Require Letter contructor from letter.js
 var Letter = require('./letter.js');
 
